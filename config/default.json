@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://goodbreathseth:superse1h11@mern-olt0x.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://goodbreathseth:superse1h11@mern-olt0x.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "mySecret",
+    "githubClientId": "48d3937eb44499871dd7",
+    "githubSecret": "f1be6c49e1b472456947f63cdfe39f099db7fcff"
 }
